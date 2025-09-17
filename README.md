@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hasham 👋
 
-<!--
-**Hasham-03/Hasham-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Machine Learning & Data Engineer**  
+💻 Skilled in: Python | NumPy | Pandas | C++ | Git & GitHub | Linux  
+📂 Check out my projects below  
+📫 Reach me at: hashim332004@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/mohammed-hasham-38765a27a
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Programming: Python, C++
+- Libraries: NumPy, Pandas
+- Tools: Git, GitHub, Linux, Visualstudio code
+- Cloud: AWS(Basics) 
+
+---
+
+## 📊 GitHub Stats
+![Hasham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasham-03&show_icons=true&theme=radical)
+
+---
+
+⭐️ From [mohammedhasham](https://github.com/Hasham-03)
