@@ -9,10 +9,11 @@
 ---
 
 ## 🚀 Skills
-- Programming: Python, javascript
-- Libraries: NumPy, Pandas
+- Programming: Python, Javascript
+- Database: MongoDB
+- Libraries: NumPy, Pandas, Pillow
 - Tools: Git, GitHub, Linux, Visualstudio code
-- Cloud: AWS(Amplify,EC2) 
+- Cloud: AWS(Amplify,EC2,S3,Lambda,ECS,RDS), Docker, Terraform 
 
 ---
 
