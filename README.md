@@ -1,7 +1,7 @@
 # Hi, I'm Hasham 👋
 
-🌱 I’m currently learning **Machine Learning & Data Engineer**  
-💻 Skilled in: Python | Web Development | AWS | NumPy | Pandas | n8n | Git & GitHub | Linux  
+🌱 I’m currently learning **AI in Cloud and AWS**  
+💻 Skilled in: Python | Web Development | AWS | NumPy | Pandas | n8n | Git & GitHub | Linux | Docker | Terraform | CI/CD Pipeline 
 📂 Check out my projects below  
 📫 Reach me at: hashim332004@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/mohammed-hasham-38765a27a
