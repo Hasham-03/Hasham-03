@@ -23,6 +23,14 @@
 - [View Code](https://github.com/Hasham-03/resume-builder)
 - [**Live Demo**](https://share.google/kunL76Bvq0HtMIvbR)
 
+### 🖼️ Serverless Image Processing – AWS Serverless Application  
+An event-driven application that automatically resizes images uploaded to Amazon S3 using AWS Lambda, S3 triggers, and IAM roles.  
+Built the Lambda function in Python with Pillow for image manipulation and configured CloudWatch for monitoring and logging.  
+The system runs entirely serverless, ensuring scalability, automation, and minimal operational overhead.
+
+- **Tech Stack:** AWS (Lambda, S3, IAM, CloudWatch), Python, Pillow  
+- **GitHub:** [Serverless Image Processing](https://github.com/Hasham-03/aws-serverless-image-resizer)
+
 
 
 ## 📊 GitHub Stats
