@@ -10,10 +10,10 @@
 
 ## 🚀 Skills
 - Programming: Python, Javascript
-- Database: MongoDB
+- Database: MongoDB, Postgre SQL
 - Libraries: NumPy, Pandas, Pillow
 - Tools: Git, GitHub, Linux, Visualstudio code
-- Cloud: AWS(Amplify,EC2,S3,Lambda,ECS,RDS), Docker, Terraform 
+- Cloud: AWS(Amplify,EC2,S3,Lambda,ECS,RDS,API Gateway,IAM,Bedrock,CloudWatch), Docker, Terraform 
 
 ---
 
@@ -34,7 +34,7 @@ The architecture ensures **high scalability, zero downtime, and cost efficiency*
 
 **Tech Stack:** AWS (Lambda, API Gateway, Bedrock, IAM, CloudWatch), Python, Next.js, Amplify, REST API  
 **Live Demo:** [https://main.dtytdzyec2pcz.amplifyapp.com/](https://main.dtytdzyec2pcz.amplifyapp.com/)  
-**GitHub:** [https://github.com/Hasham-03/aws-serverless-ai-app](https://github.com/Hasham-03/aws-serverless-ai-app)
+**GitHub:** [https://github.com/Hasham-03/aws-serverless-ai-app](https://github.com/Hasham-03/CodeMind03)
 
 ----
 ### 🖼️ Serverless Image Processing – AWS Serverless Application  
@@ -54,7 +54,7 @@ The site showcases links to my live projects, GitHub repositories, and professio
 
 **Tech Stack:** HTML, CSS, JavaScript, AWS S3, CloudFront  
 **Live Demo:** [https://d24cp79gc01cvk.cloudfront.net](https://d24cp79gc01cvk.cloudfront.net)  
-**GitHub:** [https://github.com/Hasham-03/portfolio](https://github.com/Hasham-03/portfolio)
+**GitHub:** [https://github.com/Hasham-03/portfolio](https://github.com/Hasham-03/My-Portfolio)
 
 ----
 ## 📊 GitHub Stats
