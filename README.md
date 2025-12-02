@@ -13,11 +13,21 @@
 - Database: MongoDB, Postgre SQL
 - Libraries: NumPy, Pandas, Pillow
 - Tools: Git, GitHub, Linux, Visualstudio code
-- Cloud: AWS(Amplify,EC2,S3,Lambda,ECS,RDS,API Gateway,IAM,Bedrock,CloudWatch), Docker, Terraform 
+- Cloud: AWS(Amplify,EC2,S3,Lambda,ECS,RDS,API Gateway,IAM,Bedrock,CloudWatch)
+- Devops: Docker, Terraform, GitHub Actions
 
 ---
 
 ## 💻 My Projects
+
+### 🛠 Automated Cloud-Native Deployment 
+- A fully automated CI/CD pipeline using Docker, Terraform, GitHub Actions, AWS ECR, and AWS Fargate.
+- Every push triggers build, test, image creation, and deployment to a serverless ECS Fargate service.
+- Infrastructure (VPC, ECS, ALB, IAM, ECR) provisioned and managed entirely through Terraform.
+
+🔗 [View Code](https://github.com/Hasham-03/portfolio-fargate)  
+
+----
 ### 🚀 Resume Builder - Full-Stack AWS Application
 - A dynamic web application built with Next.js and n8n that allows users to create, preview, and download professionally styled PDF resumes in real-time.
 - Deployed the entire application to AWS, hosting the frontend on Amplify and a containerized n8n backend on EC2 secured with HTTPS.
