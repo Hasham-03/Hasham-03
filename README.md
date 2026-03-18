@@ -1,50 +1,34 @@
-# Project Title 
+# Mohammed Hasham
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+## Profile Bio
+Enthusiastic software developer with a passion for building scalable web applications and exploring emerging technologies.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+## Technical Skills
 
-## Introduction
-Briefly describe what your project does and its purpose. This section should provide a clear and concise overview for potential users and contributors.
+| Skill          | Badge |
+|----------------|-------|
+| JavaScript     | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-FFD700?style=flat&logo=javascript&logoColor=black) |
+| Python         | ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| React          | ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
+| Node.js       | ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+## Featured Projects
 
-## Installation
-Provide a step-by-step guide on how to install and set up your project. Include any prerequisites.
-```bash
-# Example installation commands
-pip install your-package-name
-```
+### Project 1: Web Application
+A full-stack web application that allows users to manage tasks efficiently.
 
-## Usage
-Demonstrate how to use your project with a few examples to help users understand its functionality.
-```python
-# Example usage code
-from your_package import YourClass
-obj = YourClass()
-obj.do_something()
-```
+### Project 2: E-commerce Site
+An e-commerce platform built using React and Node.js, featuring a responsive design and user-friendly interface.
 
-## Contributing
-Encourage and guide contributions from the community. Include guidelines for submitting issues and pull requests.
-- Fork the repository
-- Create a new feature branch
-- Commit your changes
-- Push to the branch
-- Open a Pull Request
+### Project 3: Portfolio Website
+A personal portfolio website showcasing projects and skills, built with HTML, CSS, and JavaScript.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasham-03&show_icons=true&theme=radical)
 
-## Call-to-Action
-Don't hesitate to contribute! Check out the issues section, or open a new issue to discuss your ideas.
+## Contact Information
+- Email: mohammed.hasham@example.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohammed-hasham/)
+
+---
+Last updated on 2026-03-18, 17:37:16 (UTC)
