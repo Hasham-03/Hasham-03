@@ -17,7 +17,9 @@
 
 **Building scalable cloud infrastructure and intelligent AI systems**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=☁️+Cloud+Architecture;🤖+AI+Agent+Development;🔧+DevOps+%26+Automation;🧠+LLM+%26+RAG+Solutions" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=☁️+Cloud+Architecture;🤖+AI+Agent+Development;🔧+DevOps+%26+Automation;🧠+LLM+%26+RAG+Solutions" alt="Typing SVG" />
+</p>
 
 </div>
 
@@ -48,7 +50,7 @@ I'm **Mohammed Hasham**, a passionate **Cloud & AI Engineer** currently working 
 ## 💻 Skills I Master
 
 ### ☁️ Cloud & DevOps
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
