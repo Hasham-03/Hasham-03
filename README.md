@@ -211,7 +211,7 @@ I built my portfolio and hosted it on:
 
 I'm always excited to work on cloud and AI projects!
 
-📧 📧 **Interested in collaboration?** → [Let's Talk](mailto:hashim332004@gmail.com?subject=Cloud%20AI%20Project)
+📧 **Interested in collaboration?** → [Let's Talk](mailto:hashim332004@gmail.com?subject=Cloud%20AI%20Project)
 💼 **LinkedIn**: [Mohammed Hasham](https://www.linkedin.com/in/mohammed-hasham-38765a27a)  
 🐙 **GitHub**: [Hasham-03](https://github.com/Hasham-03)  
 🌐 **Portfolio**: [d24cp79gc01cvk.cloudfront.net](https://d24cp79gc01cvk.cloudfront.net)
