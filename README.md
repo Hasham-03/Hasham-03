@@ -18,7 +18,7 @@
 **Building scalable cloud infrastructure and intelligent AI systems**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=☁️+Cloud+Architecture;🤖+AI+Agent+Development;🔧+DevOps+%26+Automation;🧠+LLM+%26+RAG+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Cloud+Architecture;AI+Agent+Development;DevOps+and+Automation;LLM+and+RAG+Solutions" alt="Typing SVG" />
 </p>
 
 </div>
@@ -52,12 +52,10 @@ I'm **Mohammed Hasham**, a passionate **Cloud & AI Engineer** currently working 
 ### ☁️ Cloud & DevOps
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### 🔐 Security & Services
