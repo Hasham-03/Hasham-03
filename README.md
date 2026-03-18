@@ -17,7 +17,7 @@
 
 **Building scalable cloud infrastructure and intelligent AI systems**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&multiline=true&width=700&height=100&lines=☁️+Cloud+Architecture;🔧+DevOps+%26+CI%2FCD;🤖+AI+Agent+Development;🧠+LLM+%26+RAG+Systems;📦+Serverless+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=☁️+Cloud+Architecture;🤖+AI+Agent+Development;🔧+DevOps+%26+Automation;🧠+LLM+%26+RAG+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -118,15 +118,13 @@ I built a complete automated deployment system that:
 
 I created an intelligent chat application that:
 - 🧠 Uses Amazon Bedrock for advanced AI responses
-- 📚 Implements RAG for context-aware answers
 - 🔐 Secures users with AWS Cognito authentication
 - 💾 Stores conversations in DynamoDB at scale
-- 🔍 Searches through documents with vector embeddings
 - ⚡ Responds with low-latency via Lambda
 
 **Architecture**: Bedrock LLM → Lambda → API Gateway → DynamoDB + Cognito → Next.js Frontend
 
-**Tech**: AWS (Lambda, Bedrock, DynamoDB, Cognito, CloudWatch) | Python | LangChain | RAG | Next.js
+**Tech**: AWS (Lambda, Bedrock, DynamoDB, Cognito, CloudWatch) | Python | Next.js
 
 [Live Demo →](https://main.dtytdzyec2pcz.amplifyapp.com/) | [View Code →](https://github.com/Hasham-03/aws-serverless-ai-app)
 
@@ -201,9 +199,9 @@ I built my portfolio and hosted it on:
   - Developing LLM applications
   - Creating RAG systems for enterprise use
   
-- 💻 **Freelance AI & LLM Specialist**
-  - Custom LLM applications
-  - RAG system design
+- 💻 **Freelance Web dev, Cloud, AI**
+  - Full Stack Web dev
+  - AI agents and cloud deployments
   - AWS cloud consulting
   - AI architecture design
 
