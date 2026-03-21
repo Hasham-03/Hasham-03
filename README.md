@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### ☁️ Cloud & DevOps Engineer | 🤖 AI Agent Developer | Freelance LLM Specialist
+### ☁️ Cloud & DevOps Engineer | 🤖 AI Agent Developer | Freelance
 
 **Building scalable cloud infrastructure and intelligent AI systems**
 
@@ -32,7 +32,7 @@
 I'm **Mohammed Hasham**, a passionate **Cloud & AI Engineer** currently working as:
 
 🤖 **AI Agent Developer Intern** at **Rooman Technologies**  
-💻 **Freelance AI & LLM Specialist**
+💻 **Freelance Cloud and AI**
 
 **What I do:**
 - Build intelligent AI agents that solve real-world problems
@@ -81,8 +81,6 @@ I'm **Mohammed Hasham**, a passionate **Cloud & AI Engineer** currently working 
   <img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20Agents-00D9FF?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1F7E82?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20DB-6C5CE7?style=for-the-badge&logo=pinecone&logoColor=white" />
 </div>
 
 ### 🖥️ Programming
@@ -169,6 +167,7 @@ I built my portfolio and deployed it with cutting-edge cloud technologies:
 - 🌍 AWS CloudFront (global CDN for fast loading)
 - 📦 S3 (static file storage)
 - 🔐 HTTPS (secure connections)
+- 📋 Manages all infrastructure with Terraform
 - 📱 Responsive design (works on all devices)
 
 **Tech**: React | Terraform | GitHub Actions | AWS S3 | CloudFront
