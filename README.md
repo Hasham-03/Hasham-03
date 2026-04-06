@@ -96,7 +96,7 @@ I'm **Mohammed Hasham**, a passionate **Cloud & AI Engineer** currently working 
 
 ## 🚀 My Best Projects
 
-### 6️⃣ DisasterDoc AI - Intelligent Disaster Management
+### 1️⃣ DisasterDoc AI - Intelligent Disaster Management
 **AI-Powered Disaster Response Platform with Semantic Search**
 
 I built an intelligent disaster management system that:
@@ -114,7 +114,7 @@ I built an intelligent disaster management system that:
 
 ---
 
-### 1️⃣ Automated Cloud-Native Deployment Pipeline
+### 2️⃣ Automated Cloud-Native Deployment Pipeline
 **Enterprise CI/CD with Infrastructure-as-Code**
 
 I built a complete automated deployment system that:
@@ -129,7 +129,7 @@ I built a complete automated deployment system that:
 
 ---
 
-### 2️⃣ GenAI Chat Application - Serverless AI System
+### 3️⃣ GenAI Chat Application - Serverless AI System
 **Production-Grade LLM Chat with Secure Authentication**
 
 I created an intelligent chat application that:
@@ -146,7 +146,7 @@ I created an intelligent chat application that:
 
 ---
 
-### 3️⃣ Resume Builder - Full-Stack AWS App
+### 4️⃣ Resume Builder - Full-Stack AWS App
 **Dynamic Resume Creation & PDF Generation**
 
 I built a web app where users can:
@@ -163,7 +163,7 @@ I built a web app where users can:
 
 ---
 
-### 4️⃣ Serverless Image Processing
+### 5️⃣ Serverless Image Processing
 **Automatic Image Resizing on S3 Upload**
 
 I created an event-driven system that:
@@ -178,7 +178,7 @@ I created an event-driven system that:
 
 ---
 
-### 5️⃣ Personal Portfolio Website
+### 6️⃣ Personal Portfolio Website
 **Fast, Secure, Global Portfolio Hosting**
 
 I built my portfolio and deployed it with cutting-edge cloud technologies:
