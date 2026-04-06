@@ -96,6 +96,24 @@ I'm **Mohammed Hasham**, a passionate **Cloud & AI Engineer** currently working 
 
 ## 🚀 My Best Projects
 
+### 6️⃣ DisasterDoc AI - Intelligent Disaster Management
+**AI-Powered Disaster Response Platform with Semantic Search**
+
+I built an intelligent disaster management system that:
+- 📱 Ingests real-time disaster reports from field teams
+- 🧠 Uses AI to analyze and categorize reports
+- 🔍 Provides semantic search for emergency responders to find similar incidents
+- 📢 Triggers SNS alerts for critical disasters
+- ⚡ Scales serverlessly on AWS
+
+**Architecture**: Next.js Frontend → API Gateway → Lambda → DynamoDB + Pinecone Vector Search + AWS Bedrock
+
+**Tech**: Next.js 16 | React 19 | TypeScript | AWS (Lambda, DynamoDB, SNS, SQS) | Pinecone | AWS Amplify
+
+[Live Demo →](https://main.d3o7s21c90yij3.amplifyapp.com) | [View Code →](https://github.com/Hasham-03/DisasterDoc-AI)
+
+---
+
 ### 1️⃣ Automated Cloud-Native Deployment Pipeline
 **Enterprise CI/CD with Infrastructure-as-Code**
 
@@ -176,23 +194,6 @@ I built my portfolio and deployed it with cutting-edge cloud technologies:
 
 ---
 
-### 6️⃣ DisasterDoc AI - Intelligent Disaster Management
-**AI-Powered Disaster Response Platform with Semantic Search**
-
-I built an intelligent disaster management system that:
-- 📱 Ingests real-time disaster reports from field teams
-- 🧠 Uses AI to analyze and categorize reports
-- 🔍 Provides semantic search for emergency responders to find similar incidents
-- 📢 Triggers SNS alerts for critical disasters
-- ⚡ Scales serverlessly on AWS
-
-**Architecture**: Next.js Frontend → API Gateway → Lambda → DynamoDB + Pinecone Vector Search + AWS Bedrock
-
-**Tech**: Next.js 16 | React 19 | TypeScript | AWS (Lambda, DynamoDB, SNS, SQS) | Pinecone | AWS Amplify
-
-[Live Demo →](https://main.d3o7s21c90yij3.amplifyapp.com) | [View Code →](https://github.com/Hasham-03/DisasterDoc-AI)
-
----
 
 ## 📊 My GitHub Activity
 
